@@ -3,7 +3,7 @@
 ReAdmitShield helps visualize and predict hospital readmission risks using simulated EHR data and a trained AI model.
 
 ### 🚀 Live Demo
-👉 [Launch the App on Streamlit](https://readmitshield-<your-app-id>.streamlit.app)
+👉 [Launch the App on Streamlit](https://readmitshield-iywkykfbqkxgkocvmes8ev.streamlit.app/)
 
 ### 🧠 Features
 - Predicts 30-day readmission risk using simulated hospital EHR data.
